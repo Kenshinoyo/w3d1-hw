@@ -1,5 +1,4 @@
 import React from 'react';
-import { Switch, Route } from 'react-router-dom';
 
 import Bath from '../Components/Bath';
 import Bedroom from '../Components/Bedroom';
